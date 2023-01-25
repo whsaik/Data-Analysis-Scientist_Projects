@@ -32,3 +32,5 @@ Base : The TLC base company code affiliated with the Uber pickup
 --> Latitude is the measurement of distance north or south of the Equator.
 
 --> Every location on earth has a global address. Because the address is in numbers, people can communicate about location no matter what language they might speak. A global address is given as two numbers called coordinates. The two numbers are a location's latitude number and its longitude number ("Lat/Long").
+
+data source: https://drive.google.com/drive/folders/1Ww6GlYR119erxf9WHnssFJe-I4B05NCl 
