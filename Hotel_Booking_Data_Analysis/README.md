@@ -1,5 +1,6 @@
 # Hotel Booking EDA Analysis
 In this project, we are interested in studying the hotel booking and cancelations.
+
 In this notebook, topic covered are as followed:
 - Where do the guests come from?
 - How much do guests pay for a room per night?
