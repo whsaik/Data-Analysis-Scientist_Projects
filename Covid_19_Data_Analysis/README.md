@@ -1,6 +1,16 @@
 # Analysis on Covid-19 Datasets
 This project is the study on Covid-19 Datasets.
 
+### What is Coronavirus Pandemic?
+Coronaviruses are a large family of viruses that are common in people and many different species of animals. 
+Covid-19 is the illness caused due to deadly SARS-CoV-2. 
+Coronavirus disease emerged in 2019 and was first identified in Wuhan, China. 
+Coronavirus still remains a serious health risk.
+
+### Aim of study
+- to identify the impact of the Covid-19
+- to identify which of the top affected countries by Covid-19
+
 # Data Description
 The datasets used in this projects:
 
