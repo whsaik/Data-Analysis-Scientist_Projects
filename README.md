@@ -2,7 +2,7 @@
 
 1. Uber New York Data Analysis
 - to identify the rush hour for Uber in New York City
-- carried out spatial analysis to study the 'popular' site
+- spatial analysis to study the 'popular' site
 
 2. Hotel Booking EDA Analysis
 - to study the major source of customers for the hotels
